@@ -1,0 +1,28 @@
+{
+  "name": "learn-jasmine-testing",
+  "version": "1.0.0",
+  "description": "Helping myself to learn jasmine testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botraunak/learn-jasmine-testing.git"
+  },
+  "keywords": [
+    "testing",
+    "jasmine",
+    "javascript"
+  ],
+  "author": "Raunak Sett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botraunak/learn-jasmine-testing/issues"
+  },
+  "homepage": "https://github.com/botraunak/learn-jasmine-testing#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-spec-reporter": "^4.1.0"
+  }
+}
