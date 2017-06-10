@@ -17,3 +17,6 @@ Note: This is a very basic step up to learn jasmine and not use it for productio
 
 ## 1. Basic
 This directory is the first unit testing code I've ever written. This is the hello world for jasmine testing. Reference for getting familiar with the syntax.
+
+## 2. Basic Calculator
+Defined a calculator srcipt and defined unit tests for the script. Multiple unit tests in a single suite
